@@ -1,0 +1,72 @@
+***
+http://nickruta.com/upandrunning/2014/07/06/how-to-pass-the-oce-java-ee-6-web-services-developer-1z0-897-exam/
+
+***
+http://www.coderanch.com/t/624928/sr/certification/Passed-OCEWSD
+Java Web Services Up and Running, 2nd ed. I read it cover to cover.
+RESTful Java with JAX-RS 2.0. I read it cover to cover. (JAX-RS 2.0 is not in the exam but if you're learning it, better learn the latest and greatest too).
+Mikalai Zaikin's OCEWSD 6 Quiz (Unlike the study guide, it's not free).
+Ivan Kriznan SCDJWS 5 Study Notes. It's a little outdated but still plenty useful. I skipped some sections and code either because I already knew those or didn't feel it was relevant to the latest exam.
+Enthuware OCEWSD 6 exam simulator.
+I referred to the specs whenever in need but did not study any as such.
+
+***
+http://nickruta.com/upandrunning/2014/07/06/how-to-pass-the-oce-java-ee-6-web-services-developer-1z0-897-exam/
+http://nickruta.com/upandrunning/2014/05/16/the-big-5-web-services-security-requirements/
+
+***
+http://javaexamsguide.blogspot.com/2014/04/web-services-developer-6-certification.html
+
+***
+http://www.koenig-solutions.com/scdjws-oce-jee-6-web-services-developer-training-certification-course.aspx
+
+***
+http://1z0-897-preparation.blogspot.com/
+
+***
+http://oracle1z0897exampdf.wordpress.com/tag/1z0-897-study-guide/
+
+***
+http://www.jumpcert.com/1z0-897.html
+
+***
+http://www.examcollection.com/1z0-897.html
+
+***
+http://www.pass-4sure.net/exam/1z0-897.html
+
+***
+http://www.pass-4sure.net/exam/1z0-897.html
+
+***
+http://javajee.com/course/java-ee-6-web-services-developer-certified-expert-exam-training
+
+***
+https://cosminvacaroiu.wordpress.com/2013/06/04/very-technical-presentation-about-1z0-897/
+
+***
+http://cert-genie.hatenablog.com/entry/2014/03/27/1z0-897_Notes_Pearson_Vue_%26_Dumps_Book
+
+***
+http://www.testkiller.co/1Z0-897-exam-questions.html
+
+***
+http://epractizelabs.com/certification/sun/oce-webservices-exam-6.html
+
+***
+http://www.eliteguides.cn/ (no la tengo clara)
+
+***
+http://es.scribd.com/doc/93873920/Killtest-1Z0-897-Exam-Study-Guides#scribd
+
+***
+https://freelibs.org/1z0-897/
+
+***
+https://play.google.com/store/apps/details?id=com.enthuware.mobets.oce_jws_v6
+
+***
+http://www.jumpcert.com/1z0-897.html
+
+***
+http://patch.com/washington/universityplace/study-1z0-897-exam-practice-test-free-trial
